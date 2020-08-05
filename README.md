@@ -4,6 +4,11 @@ To Install
 3) Create Custom Profile and Select import
 4) Select Zip File And it Will Download and You will Be Set
 
+To Run Server
+1) Extract to Folder
+2) Run Install File .sh for Linux and .bat for Windows
+3) Run ServerStart
+
 Coming Soon
 1) Mekanism
 2) Realistic Item Drops
