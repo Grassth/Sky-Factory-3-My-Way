@@ -5,7 +5,7 @@ To Install
 4) Select Zip File And it Will Download and You will Be Set
 
 Coming Soon
-1)Mekanism
-2)Realistic Item Drops
+1) Mekanism
+2) Realistic Item Drops
 
 
