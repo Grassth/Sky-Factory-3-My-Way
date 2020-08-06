@@ -12,6 +12,6 @@ To Run Server
 
 Coming Soon
 1) Mekanism
-2) Realistic Item Drops
+
 
 
