@@ -10,7 +10,7 @@
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "FTB Presents SkyFactory 3 My Way",
+  "name": "SkyFactory 3 My Way-1.1",
   "version": "3.0.19",
   "author": "FTB",
   "projectID": 256183,
@@ -828,6 +828,11 @@
     {
       "projectID": 231095,
       "fileID": 2538650,
+      "required": true
+    },
+    {
+      "projectID": 245620,
+      "fileID": 2405496,
       "required": true
     },
     {
