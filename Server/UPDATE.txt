@@ -1,0 +1,24 @@
+How to Upgrade Your Sky Factory 3 Server:
+
+0) MAKE A BACKUP OF YOUR WORLD FOLDER THEN STORE IT ELSEWHERE. (Make sure it's safe from the Creepers)
+
+1) Download the latest version from CurseForge.  
+   **Note: the server files come out after the client is, and is published as quickly as possible, but there are delays in the approval process. If it's not listed, be patient.
+
+2) Shut down your server.
+
+3) In your server's directory, locate the following directories and delete them:
+        a) config
+        b) mods
+        c) scripts
+	d) modpack
+
+	DON'T DELETE THE WORLD FOLDER (Otherwise you'll be a sad panda and lose your free pass to Darks Birthday)
+        
+4) Copy the contents from the Zip file you downloaded to your server folder. Overwrite any files requested.
+
+5) Run the Install script for your system to update Forge to the version needed.
+
+6) Upload the entire libraries folder to the server also. As changes could of been made and you'll need them otherwise you'll have bad times.
+
+7) Run your server. Profit!
