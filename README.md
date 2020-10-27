@@ -11,8 +11,8 @@ To Run Server
 4) It will Crash Just Agree to EULA
 
 Coming Soon
-
-(Check Roadmap https://github.com/Grassth/Sky-Factory-3-My-Way/projects/1)
+Check Roadmap 
+(https://github.com/Grassth/Sky-Factory-3-My-Way/projects/1)
 
 
 
