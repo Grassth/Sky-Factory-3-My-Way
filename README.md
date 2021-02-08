@@ -9,12 +9,6 @@ To Install:
 Currently The Twitch Launcher Is No Longer Being Use For CurseForge Packs. So Here's A Video Tutorial On How To Install My Pack But It Is On the Older CurseForge Launcher, But The Process Should Be About The Same On the New Launcher.
 https://www.youtube.com/watch?v=Gb4dlgpkBbg
 
-To Run Server:
-1) Extract to Folder
-2) Run Install File (Takes Around 5 Minutes) .sh for Linux and .bat for Windows
-3) Run ServerStart
-4) It will Crash Just Agree to EULA
-
 RoadMap: 
 https://github.com/Grassth/Sky-Factory-3-My-Way/projects/1 
 
