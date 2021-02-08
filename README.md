@@ -1,4 +1,4 @@
-Rework in Progress
+Rework in Progress for CurseForge
 
 NOW ON TECHNIC!
 
