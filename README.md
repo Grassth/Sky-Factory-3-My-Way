@@ -15,8 +15,7 @@ To Run Server:
 3) Run ServerStart
 4) It will Crash Just Agree to EULA
 
-Coming Soon:
-1) Mechanism
-2) Buildcraft
+RoadMap: 
+https://github.com/Grassth/Sky-Factory-3-My-Way/projects/1 
 
 
