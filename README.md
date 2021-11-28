@@ -1,3 +1,6 @@
+<font color='red'>This project will not be maintained until I have more time to work on it. During this time the code will not be modified and no issues will be answered.</font>
+-----
+
 NOW ON TECHNIC!
 
 https://www.technicpack.net/modpack/sky-factory-3-my-awsome-way.1800101
